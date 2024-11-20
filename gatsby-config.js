@@ -3,7 +3,6 @@ const autoprefixer = require('autoprefixer')
 
 module.exports = {
     siteMetadata: meta,
-    pathPrefix: `/course-starter-r`,
     plugins: [
         {
             resolve: `gatsby-plugin-sass`,
@@ -88,7 +87,7 @@ module.exports = {
             options: {
                 name: meta.title,
                 short_name: meta.title,
-                start_url: `/`,
+                start_url: `/course-starter-r`,
                 background_color: meta.theme,
                 theme_color: meta.theme,
                 display: `minimal-ui`,
