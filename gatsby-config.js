@@ -3,7 +3,7 @@ const autoprefixer = require('autoprefixer')
 
 module.exports = {
     siteMetadata: meta,
-    pathPrefix: "/RLeapFROGS",
+    pathPrefix: "/course-starter-r",
     plugins: [
         {
             resolve: `gatsby-plugin-sass`,
