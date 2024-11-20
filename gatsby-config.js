@@ -87,7 +87,7 @@ module.exports = {
             options: {
                 name: meta.title,
                 short_name: meta.title,
-                start_url: `/course-starter-r`,
+                start_url: `/`,
                 background_color: meta.theme,
                 theme_color: meta.theme,
                 display: `minimal-ui`,
