@@ -17,7 +17,7 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://daveedge1.github.io/course-starter-r/" },
+        { "text": "Website", "url": "https://daveedge1.github.io/course-starter-r" },
         { "text": "Source", "url": "https://github.com/daveedge1/course-starter-r" },
         { "text": "Built with ♥", "url": "https://github.com/davedge1/course-starter-r" }
     ],
