@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/daveedge1/course-starter-r/HEAD)
+
 # Online course starter: R
 
 This is a starter repo based onthe
