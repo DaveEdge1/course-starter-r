@@ -1,6 +1,6 @@
 # Online course starter: R
 
-This is a starter repo based on the
+This is a starter repo based onthe
 [course framework](https://github.com/ines/spacy-course) I developed for my
 [spaCy course](https://course.spacy.io). The front-end is powered by
 [Gatsby](http://gatsbyjs.org/) and [Reveal.js](https://revealjs.com) and the
